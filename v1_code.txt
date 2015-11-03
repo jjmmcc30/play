@@ -1,0 +1,7 @@
+this is the code for v1.
+
+function product(x,y) as int
+{
+ product=x*y;
+ return product;
+}
